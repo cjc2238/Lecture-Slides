@@ -17,3 +17,5 @@
 [Lecture 13](https://github.com/feature-engineering-studio/Lecture-Slides/blob/master/HUDK5053-Lecture%2013.pdf)
 
 [Lecture 14](https://github.com/feature-engineering-studio/Lecture-Slides/blob/master/HUDK5053-Lecture%2014.pdf)
+
+[Lecture 15](https://github.com/feature-engineering-studio/Lecture-Slides/blob/master/HUDK5053-Lecture%2015.pdf)
